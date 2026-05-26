@@ -1,11 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d0a5e,100:0f0c29&height=230&section=header&text=Nithishwaran%20Senthilkumar&fontSize=48&fontColor=ffffff&fontAlignY=40&desc=Building%20Tomorrow%2C%20One%20Commit%20at%20a%20Time%20%E2%9C%A6&descAlignY=60&descColor=c4b5fd&animation=fadeIn" />
+<!-- Animated Header Banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d0a5e,100:0f0c29&height=230&section=header&text=Nithishwaran%20Senthilkumar&fontSize=48&fontColor=c4b5fd&fontAlignY=40&desc=CS%20Undergrad%20%7C%20Problem%20Solver%20%7C%20Developer&descAlignY=70&descAlign=50" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nithishwaran+%F0%9F%91%8B;CSE+Student+%40+MIT+Chennai+%F0%9F%8E%93;Explorer+of+Algorithms+%26+Ideas+%F0%9F%94%8D;Turning+curiosity+into+code+%F0%9F%9A%80;print('Hello%2C+World!')++%23+my+origin+story" alt="Typing SVG" />
+<!-- Typing Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nithishwaran+%F0%9F%91%8B;CSE+Student+%40+MIT+Chennai;Passionate+about+DSA+%26+Web+Dev;Always+Learning%2C+Always+Growing" />
 
 <br/>
 
+<!-- Social Badges -->
 <a href="https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
@@ -99,13 +102,13 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&include_all_commits=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f472b6&currStreakLabel=c4b5fd&sideLabels=e2e8f0&dates=94a3b8" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&rank_icon=github" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f472b6&currStreakLabel=c4b5fd&sideLabels=c4b5fd&dates=e2e8f0" width="48%" />
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" width="42%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" width="48%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6" width="100%" />
 
 </div>
 
