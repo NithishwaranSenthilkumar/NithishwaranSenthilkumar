@@ -29,10 +29,6 @@
 
 ## ⚡ Who Am I?
 
-<table>
-  <tr>
-    <td valign="top" width="55%">
-
 ### 👨‍💻 Nithishwaran Senthilkumar
 > 2nd year CS undergrad with a love for problem-solving and building things from scratch. Currently levelling up in DSA and exploring what's possible on the web — one commit at a time.
 
@@ -43,9 +39,6 @@
 | 📅 **Year** | 2nd Year · Batch of 2028 |
 | 📍 **Location** | Chennai, Tamil Nadu, India 🇮🇳 |
 | 📬 **Email** | nithish15107@gmail.com |
-
-    </td>
-    <td valign="top" width="45%">
 
 ### 🎯 Current Focus
 ```text
@@ -61,10 +54,6 @@
 🌙  Dark mode is a lifestyle, not a setting
 ☕  Coffee → Code → Commit → Repeat
 ```
-
-    </td>
-  </tr>
-</table>
 
 <div align="center">
 
