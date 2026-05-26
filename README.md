@@ -50,8 +50,8 @@
 ### 🎯 Current Focus
 ```text
 📚 Studying    DSA · OOP · DBMS
-🏗️ Building    Personal Projects
-🌐 Exploring   Web Dev · AI/ML
+🏗️ Building    Full Stack Projects
+🌐 Exploring   AI/ML · Cloud
 🤝 Open to     Open Source Collabs
 ```
 
@@ -94,6 +94,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+### 🚀 Full Stack & Databases
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+
 </div>
 
 ---
@@ -132,9 +139,9 @@
   ●── C / C++ Fundamentals          ✅  Done
   ●── Python & Java                  ✅  Done
   ●── HTML / CSS / JS Basics         ✅  Done
+  ●── Full Stack Web Development     ✅  Done
   ◐── Data Structures & Algorithms   🔄  In Progress
-  ○── Full Stack Web Development     📅  Next Up
-  ○── AI / ML Foundations            📅  Planned
+  ○── AI / ML Foundations            📅  Next Up
   ○── Open Source Contributor        🎯  Goal
 ```
 
@@ -147,7 +154,7 @@
 ![C](https://img.shields.io/badge/C-ask%20me-%2300599C?style=flat-square&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-ask%20me-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ask%20me-%23ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Web Basics](https://img.shields.io/badge/Web%20Basics-ask%20me-%23E34F26?style=flat-square&logo=html5&logoColor=white)
+![Full Stack](https://img.shields.io/badge/Full%20Stack-ask%20me-%23E34F26?style=flat-square&logo=html5&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-ask%20me-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![CS Fundamentals](https://img.shields.io/badge/CS%20Fundamentals-ask%20me-%237C3AED?style=flat-square)
 ![MIT Chennai](https://img.shields.io/badge/Student%20Life%20%40%20MIT-ask%20me-%230d1117?style=flat-square)
