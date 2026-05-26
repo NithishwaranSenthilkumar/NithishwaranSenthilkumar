@@ -26,7 +26,7 @@
 ```python
 class Nithishwaran:
     def __init__(self):
-        self.name       = "Nithishwaran Senthilkumar"
+        self.name       = "NithishwaranSenthilkumar"
         self.university = "MIT Chennai"
         self.degree     = "B.E. Computer Science & Engineering"
         self.year       = "2nd Year"
@@ -72,16 +72,15 @@ class Nithishwaran:
 
 ## 📊 GitHub Stats
 
-> ⚠️ **Replace `YOUR_GITHUB_USERNAME` below with your actual GitHub username to activate these cards!**
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff" width="40%" />
 
 </div>
 
@@ -91,7 +90,7 @@ class Nithishwaran:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
+<img src="https://github-profile-trophy.vercel.app/?username=NithishwaranSenthilkumar&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 
 </div>
 
@@ -127,7 +126,7 @@ class Nithishwaran:
 <br/>
 
 <!-- Visitor Counter -->
-<img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=a78bfa&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&color=a78bfa&style=for-the-badge&label=Profile+Views" />
 
 </div>
 
