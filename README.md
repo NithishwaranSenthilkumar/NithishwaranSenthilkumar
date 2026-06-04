@@ -104,7 +104,16 @@
 <br/><br/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&langs_count=8" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6&area=true&area_color=2d0a5e&hide_border=true&radius=8" width="100%" />
 
 </div>
 
@@ -166,10 +175,13 @@
 
 <br/><br/>
 
+<!-- GitHub Contribution Snake Animation — generated via GitHub Actions on your own profile repo -->
+<!-- To enable: go to https://github.com/Platane/snk and follow the setup for your profile repo -->
+<!-- Once set up, replace the URL below with your own generated snake SVG -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NithishwaranSenthilkumar/NithishwaranSenthilkumar/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NithishwaranSenthilkumar/NithishwaranSenthilkumar/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/NithishwaranSenthilkumar/NithishwaranSenthilkumar/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
 <br/>
@@ -181,5 +193,3 @@
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d0a5e,100:1a0533&height=130&section=footer" />
-
-make the my github as the precise one 
