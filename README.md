@@ -1,9 +1,9 @@
 <div align="center">
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d0a5e,100:0f0c29&height=230&section=header&text=Nithishwaran%20Senthilkumar&fontSize=48&fontColor=c4b5fd&fontAlign=50&desc=CSE%20%7C%20Full%20Stack%20Dev%20%7C%20Problem%20Solver&descAlign=50&descAlignY=72"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d0a5e,100:0f0c29&height=230&section=header&text=Nithishwaran%20Senthilkumar&fontSize=48&fontColor=c4b5fd&fontAlignY=32" alt="header" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nithishwaran+%F0%9F%91%8B;CSE+Student+%40+MIT+Chennai;Full+Stack+Developer;DSA+Enthusiast;Open+Source+Contributor" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nithishwaran+%F0%9F%91%8B;CSE+Student+%40+MIT+Chennai;Full+Stack+Developer;DSA+Enthusiast+%F0%9F%9A%80" alt="typing animation" />
 <br/>
 
 <!-- Social Badges -->
@@ -21,7 +21,7 @@
 &nbsp;
 <img src="https://img.shields.io/badge/MIT%20Chennai-CSE%20'28-%237C3AED.svg?style=for-the-badge" />
 <br/>
-<img src="https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&color=c4b5fd&style=for-the-badge&label=Profile+Views" />
+<img src="https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&color=c4b5fd&style=for-the-badge&label=Profile+Views" alt="Profile views" />
 </div>
 
 ---
@@ -29,7 +29,7 @@
 ## ⚡ Who Am I?
 
 ### 👨‍💻 Nithishwaran Senthilkumar
-> 2nd year CS undergrad with a passion for problem-solving and building impactful things from scratch. Currently levelling up in DSA and exploring the infinite possibilities of web development — one line of code at a time.
+> 2nd year CS undergrad with a passion for problem-solving and building impactful things from scratch. Currently levelling up in DSA and exploring the infinite possibilities of web development — one line at a time! 💻✨
 
 | | |
 |---|---|
@@ -108,12 +108,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0" />
+<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0&count_private=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f472b6&currStreakLabel=c4b5fd&sideLabels=c4b5fd" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f472b6&currStreakLabel=c4b5fd&sideLabels=c4b5fd" alt="GitHub Streak" />
 
 </div>
 
@@ -123,7 +123,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6&area=true&area_color=2d0a5e&hide_border=true&radius=16" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6&area=true&area_color=2d0a5e&hide_border=true&radius=16" alt="Contribution Graph" />
 
 </div>
 
@@ -133,7 +133,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NithishwaranSenthilkumar&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=NithishwaranSenthilkumar&theme=discord&no-frame=true&no-bg=true&margin-w=6&row=1&column=7" alt="Trophies" />
 
 </div>
 
@@ -144,7 +144,7 @@
 ```
 2024 ──────────────────────────────────────────────────────────────▶ 2028
   │
-  ●── C / C++ Fundamentals                    ���  Done
+  ●── C / C++ Fundamentals                    ✅  Done
   ●── Python & Java Mastery                   ✅  Done
   ●── Web Development Basics (HTML/CSS/JS)    ✅  Done
   ●── Full Stack Development (MERN)           ✅  Done
@@ -226,6 +226,6 @@ I'm always excited to collaborate, share knowledge, and work on exciting project
 <br/>
 
 <!-- Footer with Name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d0a5e,100:1a0533&height=130&section=footer&text=Nithishwaran%20Senthilkumar&fontSize=32&fontColor=c4b5fd&fontAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d0a5e,100:1a0533&height=130&section=footer&text=Nithishwaran%20Senthilkumar&fontSize=32&fontColor=c4b5fd&fontAlignY=70" alt="footer" />
 
 </div>
