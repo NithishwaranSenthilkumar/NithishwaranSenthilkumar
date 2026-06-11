@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
+<a href="mailto:2024503564@student.anna.univ">
+  <img src="https://img.shields.io/badge/University%20Mail-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
+</a>
+&nbsp;
 <a href="https://github.com/NithishwaranSenthilkumar">
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" />
 </a>
@@ -38,6 +42,7 @@
 | 📅 **Year** | 2nd Year · Batch of 2028 |
 | 📍 **Location** | Chennai, Tamil Nadu, India 🇮🇳 |
 | 📬 **Email** | nithish15107@gmail.com |
+| 🎓 **University Mail** | 2024503564@student.anna.univ |
 | 💼 **Portfolio** | Coming Soon! |
 
 ### 🎯 Current Focus
@@ -123,7 +128,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6&area=true&area_color=2d0a5e&hide_border=true&radius=16" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/7c3aed/NithishwaranSenthilkumar" alt="Contribution Graph" />
 
 </div>
 
@@ -196,6 +201,10 @@ I'm always excited to collaborate, share knowledge, and work on exciting project
 &nbsp;&nbsp;
 <a href="mailto:nithish15107@gmail.com">
   <img src="https://img.shields.io/badge/Drop%20a%20Mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:2024503564@student.anna.univ">
+  <img src="https://img.shields.io/badge/University%20Mail-%230078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/NithishwaranSenthilkumar">
