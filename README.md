@@ -123,7 +123,7 @@
 
 <div align="center">
 
-<img src="https://github-contribution-graph.ez4nick.com/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6&area=true&area_color=2d0a5e&hide_border=true&radius=16" alt="Contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=c4b5fd&line=7c3aed&point=f472b6&area=true&area_color=2d0a5e&hide_border=true&radius=16" alt="Contribution graph" />
 
 </div>
 
