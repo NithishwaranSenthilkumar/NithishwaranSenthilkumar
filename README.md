@@ -1,9 +1,9 @@
 <div align="center">
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d0a5e,100:0f0c29&height=230&section=header&text=Nithishwaran%20Senthilkumar&fontSize=48&fontColor=c4b5fd&fontAlignY=50" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d0a5e,100:0f0c29&height=230&section=header&text=Nithishwaran%20Senthilkumar&fontSize=48&fontColor=c4b5fd" alt="Header" />
 
 <!-- Typing Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nithishwaran+%F0%9F%91%8B;CSE+Student+at+MIT+Chennai+%F0%9F%8E%93;DSA+Enthusiast+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%9A%80" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=C4B5FD&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Nithishwaran+%F0%9F%91%8B;CSE+Student+@+MIT+Chennai;DSA+%7C+Full+Stack+Dev+%7C+Problem+Solver" alt="Typing SVG" />
 <br/>
 
 <!-- Social Badges -->
@@ -33,7 +33,7 @@
 ## ⚡ Who Am I?
 
 ### 👨‍💻 Nithishwaran Senthilkumar
-> 2nd year CS undergrad with a passion for problem-solving and building impactful things from scratch. Currently levelling up in DSA and exploring the infinite possibilities of web development — one bug at a time! 🔥
+> 2nd year CS undergrad with a passion for problem-solving and building impactful things from scratch. Currently levelling up in DSA and exploring the infinite possibilities of web development — one algorithm at a time.
 
 | | |
 |---|---|
@@ -113,12 +113,12 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" alt="GitHub stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=c4b5fd&text_color=e2e8f0" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f472b6&currStreakLabel=c4b5fd&sideLabels=c4b5fd" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f472b6&currStreakLabel=c4b5fd&sideLabels=c4b5fd" alt="GitHub Streak" />
 
 </div>
 
@@ -128,7 +128,13 @@
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/7c3aed/NithishwaranSenthilkumar" alt="Contribution Graph" />
+### Combined Contributions from All Emails
+
+> ✅ **Both email addresses** (`nithish15107@gmail.com` & `2024503564@student.anna.univ`) are linked to this GitHub account and tracked in the contribution graph below.
+
+<img src="https://ghchart.rshah.org/c4b5fd/NithishwaranSenthilkumar" alt="Contribution Graph" />
+
+**Note:** Contributions are counted from all configured email addresses in your GitHub account settings. Make sure both emails are verified and set to public in your [GitHub email settings](https://github.com/settings/emails) for accurate tracking.
 
 </div>
 
@@ -235,6 +241,6 @@ I'm always excited to collaborate, share knowledge, and work on exciting project
 <br/>
 
 <!-- Footer with Name -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d0a5e,100:1a0533&height=130&section=footer&text=Nithishwaran%20Senthilkumar&fontSize=32&fontColor=c4b5fd&fontAlignY=75" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d0a5e,100:1a0533&height=130&section=footer&text=Nithishwaran%20Senthilkumar&fontSize=32&fontColor=c4b5fd" alt="Footer" />
 
 </div>
