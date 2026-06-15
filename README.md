@@ -5,18 +5,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff&border_color=30363d&border_radius=15" width="400" alt="GitHub Stats" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=github-dark-dimmed&hide_border=false&background=0a0e27&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border=30363d" width="400" alt="GitHub Streak" />
-
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 A passionate **2nd-year Computer Science** undergraduate at the **Madras Institute of Technology**, Chennai. I'm dedicated to mastering **Data Structures & Algorithms**, building scalable **full-stack applications**, and contributing to the open-source community. Driven by curiosity and a commitment to writing clean, efficient code.
@@ -65,43 +53,6 @@ A passionate **2nd-year Computer Science** undergraduate at the **Madras Institu
 
 ---
 
-## 📈 Top Languages & Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=15" alt="Top Languages" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=github&bg_color=0a0e27&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Contribution Activity Graph" />
-
-</div>
-
----
-
-## 📊 Contribution Graph
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/c4b5fd/NithishwaranSenthilkumar" alt="GitHub Contribution Graph" width="900" style="margin: 20px 0;" />
-
-**Contributions Analysis:**
-- 🔥 **Current Streak**: Building momentum
-- 📅 **Active Since**: July 24, 2025
-- 🎯 **Focus**: DSA, Full Stack, Open Source
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=NithishwaranSenthilkumar&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
-
-</div>
-
----
-
 ## 🎯 Current Focus & Learning Path
 
 <div align="center">
@@ -141,7 +92,7 @@ Visit my [GitHub Repositories](https://github.com/NithishwaranSenthilkumar?tab=r
 
 <div align="center">
 
-<a href="#"><img src="https://img.shields.io/badge/DSA%20%26%20Algorithms-Ask%20Me-%237C3AED?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHRleHQgeD0iNSIgeT0iMTgiIGZvbnQtc2l6ZT0iMTYiIGZvbnQtd2VpZ2h0PSJib2xkIj7wn5iM77iPPC90ZXh0Pjwvc3ZnPg==&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/DSA%20%26%20Algorithms-Ask%20Me-%237C3AED?style=flat-square&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/Full%20Stack%20Web-Ask%20Me-%23E34F26?style=flat-square&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/System%20Design-Ask%20Me-%231f6feb?style=flat-square&logoColor=white"></a>
 <a href="#"><img src="https://img.shields.io/badge/MERN%20Stack-Ask%20Me-%2361DAFB?style=flat-square&logoColor=black"></a>
@@ -150,8 +101,6 @@ Visit my [GitHub Repositories](https://github.com/NithishwaranSenthilkumar?tab=r
 </div>
 
 ---
-
-
 
 ## 🌐 Let's Connect!
 
@@ -205,6 +154,36 @@ Visit my [GitHub Repositories](https://github.com/NithishwaranSenthilkumar?tab=r
 | 💻 Primary Interest | Full Stack Development & DSA |
 | 🔥 Commitment Level | 100% |
 | 🚀 Goal | Build impactful applications & contribute to OSS |
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff&border_color=30363d&border_radius=15" width="400" alt="GitHub Stats" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=github-dark-dimmed&hide_border=false&background=0a0e27&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border=30363d" width="400" alt="GitHub Streak" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=15" alt="Top Languages" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=github&bg_color=0a0e27&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Contribution Activity Graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NithishwaranSenthilkumar&theme=discord&no-frame=true&no-bg=true&margin-w=8&row=1&column=7" alt="GitHub Trophies" />
 
 </div>
 
