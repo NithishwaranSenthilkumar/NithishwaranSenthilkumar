@@ -152,7 +152,7 @@ A collection of coding problems, solutions, and competitive programming practice
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff&border_color=30363d&cache_seconds=1800"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff&border_color=30363d&cache_seconds=1800&include_all_commits=true"/>
 
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=github-dark-dimmed&hide_border=false&background=0a0e27&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border=30363d"/>
 
