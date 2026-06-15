@@ -160,8 +160,7 @@ A collection of coding problems, solutions, and competitive programming practice
 
 ## 📈 Contribution Activity
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=github-dark&hide_border=true"/>
-
+<img src="https://ghchart.rshah.org/58a6ff/NithishwaranSenthilkumar" />
 ---
 
 <div align="center">
