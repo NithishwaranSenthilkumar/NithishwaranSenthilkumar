@@ -1,6 +1,6 @@
 <div align="center">
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0f,30:1a0533,60:2d0a5e,100:0f0c29&height=280&section=header&text=Nithishwaran%20Senthilkumar&fontSize=60&fontColor=c4b5fd&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,30:161b22,60:0d1117,100:010409&height=280&section=header&text=Nithishwaran%20Senthilkumar&fontSize=60&fontColor=58a6ff&animation=fadeIn&desc=Computer%20Science%20Student%20%7C%20Full%20Stack%20Developer&descAlignY=62&descAlign=50" />
 </div>
 
 ---
@@ -9,9 +9,9 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&icon_color=f472b6&text_color=e2e8f0&ring_color=c4b5fd&border_radius=10" width="400" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&icon_color=79c0ff&text_color=c9d1d9&ring_color=58a6ff&border_color=30363d&border_radius=15" width="400" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true&background=0d1117&ring=c4b5fd&fire=f472b6&currStreakLabel=c4b5fd" width="400" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=github-dark-dimmed&hide_border=false&background=0a0e27&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff&border=30363d" width="400" alt="GitHub Streak" />
 
 </div>
 
@@ -69,9 +69,9 @@ A passionate **2nd-year Computer Science** undergraduate at the **Madras Institu
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=c4b5fd&text_color=e2e8f0&border_radius=10" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=github_dark&hide_border=false&bg_color=0a0e27&title_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=15" alt="Top Languages" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&bg_color=0d1117&title_color=c4b5fd&line=c4b5fd&point=f472b6&area=true&hide_border=true&border_radius=10" alt="Contribution Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=github&bg_color=0a0e27&color=58a6ff&line=58a6ff&point=ff7b72&area=true&hide_border=true" alt="Contribution Activity Graph" />
 
 </div>
 
@@ -151,15 +151,7 @@ Visit my [GitHub Repositories](https://github.com/NithishwaranSenthilkumar?tab=r
 
 ---
 
-## 💡 Random Developer Quote
 
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Developer Quote" />
-
-</div>
-
----
 
 ## 🌐 Let's Connect!
 
@@ -220,17 +212,6 @@ Visit my [GitHub Repositories](https://github.com/NithishwaranSenthilkumar?tab=r
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:2d0a5e,100:1a0533&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=32&fontColor=c4b5fd" alt="Footer" />
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Remember
-> *"The only way to do great work is to love what you do."* — Steve Jobs
-
-> *"Code is poetry, and debugging is editing."* — Unknown
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0e27,50:161b22,100:0d1117&height=150&section=footer&text=Thank%20You%20for%20Visiting!&fontSize=32&fontColor=58a6ff" alt="Footer" />
 
 </div>
