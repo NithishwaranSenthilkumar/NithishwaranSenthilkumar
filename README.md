@@ -159,8 +159,7 @@ A collection of coding problems, solutions, and competitive programming practice
 ---
 
 ## 📈 Contribution Activity
-
-<img src="https://ghchart.rshah.org/58a6ff/NithishwaranSenthilkumar" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=github-dark&hide_border=true"/>
 ---
 
 <div align="center">
