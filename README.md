@@ -74,7 +74,8 @@
 ### 📊 GitHub Stats
 
 ![Nithishwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=tokyonight)
-![Nithishwaran's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+![Nithishwaran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true)
+
 
 ### 📈 Contribution Graph
 
