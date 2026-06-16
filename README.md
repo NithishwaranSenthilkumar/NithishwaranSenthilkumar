@@ -73,20 +73,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</p>
-![Nithishwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true)
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
-
----
+![Nithishwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=tokyonight)
 
 ### 📈 Contribution Graph
 
