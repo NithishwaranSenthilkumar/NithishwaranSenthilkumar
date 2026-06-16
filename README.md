@@ -55,16 +55,18 @@ fun_fact:     Always up for a coding challenge ⚡
 
 <div align="center">
 
-| Skill | Proficiency | Level |
-|-------|-------------|-------|
-| HTML / CSS | ████████░░ | 85% |
-| Java | ████████░░ | 80% |
-| C / C++ | ███████░░░ | 75% |
-| DSA / Problem Solving | ███████░░░ | 72% |
-| JavaScript | ██████░░░░ | 65% |
-| Python | ██████░░░░ | 60% |
-| MySQL | █████░░░░░ | 55% |
-| Open Source | █████░░░░░ | 55% |
+![HTML/CSS](https://img.shields.io/badge/HTML%20%2F%20CSS-85%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=7c3aed)
+![Java](https://img.shields.io/badge/Java-80%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=6d28d9)
+![C/C++](https://img.shields.io/badge/C%20%2F%20C%2B%2B-75%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=5b21b6)
+![DSA](https://img.shields.io/badge/DSA%20%2F%20Problem%20Solving-72%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=4c1d95)
+![JavaScript](https://img.shields.io/badge/JavaScript-65%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=7c3aed)
+![Python](https://img.shields.io/badge/Python-60%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=6d28d9)
+![MySQL](https://img.shields.io/badge/MySQL-55%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=5b21b6)
+![Open Source](https://img.shields.io/badge/Open%20Source-55%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=4c1d95)
+
+<br/>
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=donut&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&border_color=3b1f6e&langs_count=6&hide_border=false)
 
 </div>
 
@@ -77,8 +79,6 @@ fun_fact:     Always up for a coding challenge ⚡
 ![Nithishwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&border_color=3b1f6e)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=transparent&background=0d0d1a&stroke=3b1f6e&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=ddd6fe&sideLabels=9d8fe0&dates=6d5f9e&border=3b1f6e)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&border_color=3b1f6e&langs_count=6)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=false&border_color=3b1f6e)
 
