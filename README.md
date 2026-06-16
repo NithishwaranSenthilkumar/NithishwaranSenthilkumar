@@ -1,14 +1,5 @@
 <div align="center">
 
-```
-███╗   ██╗██╗████████╗██╗  ██╗██╗███████╗██╗  ██╗
-████╗  ██║██║╚══██╔══╝██║  ██║██║██╔════╝██║  ██║
-██╔██╗ ██║██║   ██║   ███████║██║███████╗███████║
-██║╚██╗██║██║   ██║   ██╔══██║██║╚════██║██╔══██║
-██║ ╚████║██║   ██║   ██║  ██║██║███████║██║  ██║
-╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
-```
-
 # Nithishwaran S
 
 **`CSE Student @ MIT Chennai · Aspiring Software Developer`**
@@ -60,6 +51,25 @@ fun_fact:     Always up for a coding challenge ⚡
 
 ---
 
+## `~/skill-graph`
+
+<div align="center">
+
+| Skill | Proficiency | Level |
+|-------|-------------|-------|
+| HTML / CSS | ████████░░ | 85% |
+| Java | ████████░░ | 80% |
+| C / C++ | ███████░░░ | 75% |
+| DSA / Problem Solving | ███████░░░ | 72% |
+| JavaScript | ██████░░░░ | 65% |
+| Python | ██████░░░░ | 60% |
+| MySQL | █████░░░░░ | 55% |
+| Open Source | █████░░░░░ | 55% |
+
+</div>
+
+---
+
 ## `~/github-stats`
 
 <div align="center">
@@ -67,6 +77,8 @@ fun_fact:     Always up for a coding challenge ⚡
 ![Nithishwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&border_color=3b1f6e)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=transparent&background=0d0d1a&stroke=3b1f6e&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=ddd6fe&sideLabels=9d8fe0&dates=6d5f9e&border=3b1f6e)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&border_color=3b1f6e&langs_count=6)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=false&border_color=3b1f6e)
 
