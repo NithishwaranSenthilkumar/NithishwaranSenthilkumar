@@ -1,110 +1,93 @@
 <div align="center">
 
-# Hi 👋, I'm Nithishwaran S
+```
+███╗   ██╗██╗████████╗██╗  ██╗██╗███████╗██╗  ██╗
+████╗  ██║██║╚══██╔══╝██║  ██║██║██╔════╝██║  ██║
+██╔██╗ ██║██║   ██║   ███████║██║███████╗███████║
+██║╚██╗██║██║   ██║   ██╔══██║██║╚════██║██╔══██║
+██║ ╚████║██║   ██║   ██║  ██║██║███████║██║  ██║
+╚═╝  ╚═══╝╚═╝   ╚═╝   ╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝
+```
 
-### Aspiring Software Developer | CSE Student at MIT Chennai | Java • Web Development • Problem Solving
+# Nithishwaran S
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=600&lines=Computer+Science+%7C+MIT+2nd+Year+Student;Building+with+Java+%26+Web+Technologies;Always+up+for+a+coding+challenge!" alt="Typing SVG" />
+**`CSE Student @ MIT Chennai · Aspiring Software Developer`**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=16&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Java+%7C+Web+Development+%7C+DSA;2nd+Year+Computer+Science+%40+MIT+Chennai;Always+up+for+a+coding+challenge!" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&style=flat-square&color=7c3aed&label=PROFILE+VIEWS)
 
 </div>
 
 ---
 
-### 🚀 About Me
+## `~/about`
 
-- 🎓 2nd year **Computer Science and Engineering (CSE)** student at **MIT, Chennai**
-- 💡 Passionate about software development, problem solving, and exploring new technologies
-- 🌱 Currently strengthening my skills in Java, web development, and DSA
-- 🤝 Open to collaborating on interesting projects and open-source contributions
-- 🧩 Active problem solver on LeetCode
-- ⚡ Fun fact: Always up for a coding challenge!
-
----
-
-### 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+```yaml
+name:         Nithishwaran S
+role:         Aspiring Software Developer
+education:    B.E. Computer Science & Engineering — MIT, Chennai (2nd Year)
+focus:        Java · Web Development · Data Structures & Algorithms
+platforms:    LeetCode (active problem solver)
+status:       Open to collaborations & open-source contributions
+fun_fact:     Always up for a coding challenge ⚡
+```
 
 ---
 
-### 📌 Featured Repositories
+## `~/tech-stack`
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/NithishwaranSenthilkumar/HTML">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithishwaranSenthilkumar&repo=HTML&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/NithishwaranSenthilkumar/Login-page">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithishwaranSenthilkumar&repo=Login-page&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/NithishwaranSenthilkumar/nss-smart-community-platform">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithishwaranSenthilkumar&repo=nss-smart-community-platform&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/NithishwaranSenthilkumar/NithishwaranSenthilkumar">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=NithishwaranSenthilkumar&repo=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+**Languages**
+
+![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+**Web**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Database & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
 
-### 📊 GitHub Stats
-![Nithishwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=00e676&text_color=ffffff&icon_color=00e676)
+## `~/github-stats`
 
+<div align="center">
 
+![Nithishwaran's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&icon_color=7c3aed&border_color=3b1f6e)
 
-![Nithishwaran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=dark&background=0d1117&stroke=00e676&ring=00e676&fire=00e676&currStreakLabel=00e676&sideNums=00e676&sideLabels=ffffff&dates=ffffff&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=transparent&background=0d0d1a&stroke=3b1f6e&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideNums=ddd6fe&sideLabels=9d8fe0&dates=6d5f9e&border=3b1f6e)
 
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=false&border_color=3b1f6e)
 
+</div>
 
-### 📈 Contribution Graph
+---
 
-![Nithishwaran's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
+## `~/connect`
 
+<div align="left">
 
-### 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/NthishwaranSenthilkumar/)
+[![Email](https://img.shields.io/badge/Email-7C3AED?style=flat-square&logo=gmail&logoColor=white)](mailto:youremail@example.com)
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/NthishwaranSenthilkumar/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:youremail@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+</div>
 
 ---
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&style=for-the-badge&color=blueviolet)
-
-**Thanks for stopping by! ⭐ Feel free to explore my repositories.**
+*Thanks for stopping by — feel free to explore and ⭐ star what you find useful.*
 
 </div>
