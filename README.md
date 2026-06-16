@@ -90,13 +90,8 @@
 
 ### 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&hide_border=true" alt="Contribution Graph" />
-</p>
-![Nithishwaran's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=ffffff&color=000000&line=00b300&point=006600&area=true&hide_border=true)
+![Nithishwaran's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d1117&color=ffffff&line=00e676&point=ffffff&area=true&hide_border=true)
 
-
----
 
 ### 📫 Connect With Me
 
