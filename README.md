@@ -73,7 +73,7 @@
 
 ### 📊 GitHub Stats
 
-![Nithishwaran's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&count_private=true&theme=tokyonight" alt="GitHub Stats" />
 ![Nithishwaran's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NithishwaranSenthilkumar&theme=dark&background=0d1117&stroke=00e676&ring=00e676&fire=00e676&currStreakLabel=00e676&sideNums=00e676&sideLabels=ffffff&dates=ffffff&hide_border=true)
 
 
