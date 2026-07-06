@@ -86,7 +86,7 @@ fun_fact:     Always up for a coding challenge ⚡
 
 ---
 
-## `~/connect`
+## `~/connect with me`
 
 <div align="left">
 
