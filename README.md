@@ -15,7 +15,7 @@
 ## `~/about`
 
 ```yaml
-name:         Nithishwaran S
+name:         Nithishwaran 
 role:         Aspiring Software Developer
 education:    B.E. Computer Science & Engineering — MIT, Chennai (2nd Year)
 focus:        Java · Web Development · Data Structures & Algorithms
