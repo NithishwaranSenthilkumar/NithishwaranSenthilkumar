@@ -1,6 +1,6 @@
 <div align="center">
 
-# Nithishwaran  
+# Nithishwaran S
 
 **`CSE Student @ MIT Chennai · Aspiring Software Developer`**
 
