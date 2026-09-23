@@ -75,7 +75,15 @@ fun_fact:     Always up for a coding challenge ⚡
 <img src="https://img.shields.io/badge/Open%20Source-55%25-7c3aed?style=flat-square&labelColor=0d0d1a&color=4c1d95" />
 
 <br/><br/>
+---
 
+## 🟩 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0d0d1a&color=c4b5fd&line=7c3aed&point=a78bfa&area=true&area_color=7c3aed&hide_border=false&border_color=3b1f6e" />
+
+</div>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=donut&theme=transparent&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&border_color=3b1f6e&langs_count=6&hide_border=false" />
 
 </div>
