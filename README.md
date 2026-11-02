@@ -100,11 +100,20 @@ Currently Working On:
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
 
 <br/><br/>
 
 <img src="https://streak-stats.demolab.com?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🔤 Most Used Languages
+
+<div align="center">
+
+<img alt="Most used languages" src="https://github-readme-stats.shion.dev/api/top-langs/?username=NithishwaranSenthilkumar&theme=date_night&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 
 </div>
 
