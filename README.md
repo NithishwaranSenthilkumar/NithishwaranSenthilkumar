@@ -1,74 +1,150 @@
-# Nithishwaran Senthilkumar
+div align="center">
 
-**Computer Science Student | Aspiring Software Developer**
-B.E. Computer Science and Engineering, MIT Chennai (Class of 2029)
+# 👋 Hi, I'm Nithishwaran Senthilkumar
 
-[LinkedIn](https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/) · [LeetCode](https://leetcode.com/u/NthishwaranSenthilkumar/) · [GitHub](https://github.com/NithishwaranSenthilkumar)
+### Aspiring Software Developer | CSE Student @ MIT Chennai
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+Developer;Problem+Solver+%7C+DSA+Enthusiast;Full+Stack+Web+Development;Exploring+AI+%26+Machine+Learning" />
+
+<br/>
+
+<a href="https://github.com/NithishwaranSenthilkumar">
+<img src="https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
+</a>
+
+</div>
 
 ---
 
-## About
+## 🚀 About Me
 
-I am a second-year Computer Science student focused on building strong fundamentals in software development. I work primarily in Java, practice data structures and algorithms regularly, and build full stack applications to apply what I learn. I am also exploring artificial intelligence and machine learning, particularly in the context of network security.
+Name: Nithishwaran Senthilkumar
+Education: B.E. Computer Science and Engineering
+College: MIT, Chennai
+Current Year: 2nd Year
+Role: Aspiring Software Developer
 
-I am looking for internship opportunities where I can contribute to real projects and grow as an engineer.
+Interests:
+  - Software Development
+  - Data Structures and Algorithms
+  - Full Stack Development
+  - Artificial Intelligence
+  - Machine Learning
 
+Currently Working On:
+  - Improving Java Programming
+  - Solving LeetCode Problems
+  - Building Practical Projects
+  - Learning New Technologies
 ---
 
-## Technical Skills
+## 💻 Tech Stack
 
-| Category | Technologies |
-|----------|--------------|
-| **Languages** | Java, C, C++, Python, JavaScript |
-| **Frontend** | HTML, CSS, React |
-| **Backend** | Node.js, Express |
-| **Databases** | MySQL, MongoDB |
-| **Tools** | Git, GitHub, VS Code, Linux |
-| **Core Concepts** | Data Structures and Algorithms, Dynamic Programming, Object-Oriented Programming |
+### Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js,html,css,react,nodejs,express,mysql,mongodb,git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
+</p>
+
+### Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
+</p>
+
+### Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
 </p>
 
 ---
 
-## Projects
+## 📚 Currently Learning
 
-### Net Shield
-AI-based network security project for detecting and analyzing suspicious network activity.
-**Tech:** Python, Machine Learning
-**Repository:** [View on GitHub](https://github.com/NithishwaranSenthilkumar/REPO-NAME)
+Java and Advanced Data Structures
+Dynamic Programming
+Data Structures and Algorithms
+Full Stack Web Development
+Artificial Intelligence and Machine Learning
+Software Engineering
+---
 
-### Full Stack Web Application
-Web application built with a modern frontend and a RESTful backend, including database integration.
-**Tech:** React, Node.js, Express, MongoDB
-**Repository:** [View on GitHub](https://github.com/NithishwaranSenthilkumar/REPO-NAME)
+## 🔥 Featured Projects
 
-### LeetCode Solutions
-Organized Java solutions to algorithmic problems, with notes on approach and complexity.
-**Tech:** Java
-**Repository:** [View on GitHub](https://github.com/NithishwaranSenthilkumar/REPO-NAME)
+### 🛡️ Net Shield
+AI-based project exploring network security solutions.
+
+### 🌐 Web Development Projects
+Building practical web applications using modern frontend and backend technologies.
+
+### 🧠 DSA Practice
+Solving algorithmic problems using Java on LeetCode.
 
 ---
 
-## Currently Focused On
+## 📊 GitHub Statistics
 
-- Advanced data structures and dynamic programming
-- Strengthening Java and object-oriented design
-- Building full stack projects end to end
-- Fundamentals of machine learning
+<div align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
-## GitHub Activity
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true" />
 
-<p>
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=default&hide_border=true&langs_count=6" />
-</p>
+<br/><br/>
+
+<img width="65%" src="https://streak-stats.demolab.com?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true" />
+
+</div>
 
 ---
 
-## Contact
+## 📈 Contribution Graph
 
-For internships, collaborations, or questions, reach out on [LinkedIn](https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/).
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=NithishwaranSenthilkumar&theme=discord&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://leetcode.com/u/NthishwaranSenthilkumar/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://github.com/NithishwaranSenthilkumar">
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Code. Learn. Build. Repeat.
+
+**"Turning ideas into code and challenges into opportunities."**
+
+⭐ Thanks for visiting my profile!
+
+</div>
