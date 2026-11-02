@@ -114,7 +114,11 @@ Currently Working On:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
+<img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&bg_color=0D1117&color=A78BFA&line=7C3AED&point=FFFFFF&area=true&area_color=7C3AED&hide_border=true&radius=10&custom_title=Contribution%20Graph" width="100%" />
+
+<br/>
+
+<img alt="GitHub contribution heatmap" src="https://ghchart.rshah.org/7C3AED/NithishwaranSenthilkumar" width="95%" />
 
 </div>
 
