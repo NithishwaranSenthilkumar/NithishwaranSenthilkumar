@@ -1,17 +1,16 @@
-
 <div align="center">
 
-# 👋 Hi, I'm Nithishwaran Senthilkumar
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Nithishwaran%20Senthilkumar&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=CSE%20Student%20@%20MIT%20Chennai%20%7C%20Aspiring%20Software%20Developer&descAlignY=58&descSize=16" width="100%" />
 
-### Aspiring Software Developer | CSE Student @ MIT Chennai
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+Developer;Problem+Solver+%7C+DSA+Enthusiast;Full+Stack+Web+Development;Exploring+AI+%26+Machine+Learning" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Java+Developer;Problem+Solver+%7C+DSA+Enthusiast;Full+Stack+Web+Development;Exploring+AI+%26+Machine+Learning" alt="Typing SVG" />
 
 <br/>
 
-<a href="https://github.com/NithishwaranSenthilkumar">
-<img src="https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&label=PROFILE+VIEWS&color=7C3AED&style=flat-square" />
-</a>
+<a href="https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/u/NthishwaranSenthilkumar/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://github.com/NithishwaranSenthilkumar"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<img src="https://komarev.com/ghpvc/?username=NithishwaranSenthilkumar&label=Profile+Views&color=7C3AED&style=flat-square" />
 
 </div>
 
@@ -19,94 +18,51 @@
 
 ## 🚀 About Me
 
-```yaml
-Name: Nithishwaran Senthilkumar
-Education: B.E. Computer Science and Engineering
-College: MIT, Chennai
-Current Year: 2nd Year
-Role: Aspiring Software Developer
-
-Interests:
-  - Software Development
-  - Data Structures and Algorithms
-  - Full Stack Development
-  - Artificial Intelligence
-  - Machine Learning
-
-Currently Working On:
-  - Improving Java Programming
-  - Solving LeetCode Problems
-  - Building Practical Projects
-  - Learning New Technologies
-```
+- 🎓 2nd-year **B.E. Computer Science and Engineering** student at **MIT, Chennai**
+- 💻 Building my foundation in **Java**, **DSA**, and **full stack development**
+- 🧠 Exploring **AI & Machine Learning** and applying it to real problems like network security
+- 🧩 Solving problems daily on **LeetCode**
+- 🌱 Currently focused on: Dynamic Programming, advanced data structures, and practical projects
+- 🎯 Goal: land a software developer role and build things people actually use
 
 ---
 
-## 💻 Tech Stack
+## 🛠️ Tech Stack
 
-### Programming Languages
+**Languages**
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,c,cpp,python,js&theme=dark" />
 
-### Web Development
+**Web Development**
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express&theme=dark" />
 
-### Database & Tools
+**Databases & Tools**
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux" />
-</p>
-
----
-
-## 📚 Currently Learning
-
-- Java and Advanced Data Structures
-- Dynamic Programming
-- Data Structures and Algorithms
-- Full Stack Web Development
-- Artificial Intelligence and Machine Learning
-- Software Engineering
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,git,github,vscode,linux&theme=dark" />
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🛡️ Net Shield
-AI-based project exploring network security solutions.
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🛡️ **[Net Shield](https://github.com/NithishwaranSenthilkumar/REPO-NAME)** | AI-based network security project that detects and analyzes suspicious traffic | Python, ML |
+| 🌐 **[Web Project](https://github.com/NithishwaranSenthilkumar/REPO-NAME)** | Full stack web application with a modern frontend and backend | React, Node.js, MongoDB |
+| 🧠 **[DSA in Java](https://github.com/NithishwaranSenthilkumar/REPO-NAME)** | Organized solutions to LeetCode problems with explanations | Java |
 
-### 🌐 Web Development Projects
-Building practical web applications using modern frontend and backend technologies.
-
-### 🧠 DSA Practice
-Solving algorithmic problems using Java on LeetCode.
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true" />
-
-<br/><br/>
-
-<img width="65%" src="https://streak-stats.demolab.com?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true" />
-
-</div>
+> 📌 Replace `REPO-NAME` with your real repository names, and pin your best 6 repos on your profile.
 
 ---
 
-## 📈 Contribution Graph
+## 📊 GitHub Stats
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=NithishwaranSenthilkumar&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NithishwaranSenthilkumar&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+
+<img src="https://streak-stats.demolab.com?user=NithishwaranSenthilkumar&theme=tokyonight&hide_border=true" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=NithishwaranSenthilkumar&theme=tokyo-night&hide_border=true&area=true" width="100%" />
 
@@ -114,42 +70,26 @@ Solving algorithmic problems using Java on LeetCode.
 
 ---
 
-## 🏆 GitHub Trophies
+## 🧩 LeetCode
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NithishwaranSenthilkumar&theme=discord&no-frame=true&no-bg=true&margin-w=10" width="100%" />
+<img src="https://leetcard.jacoblin.cool/NthishwaranSenthilkumar?theme=dark&font=JetBrains%20Mono&ext=heatmap" />
 
 </div>
 
 ---
 
-## 🌐 Connect With Me
+## 🤝 Let's Connect
+
+I'm open to internships, collaborations, and open-source contributions. Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/).
 
 <div align="center">
-
-<a href="https://www.linkedin.com/in/nithishwaran-senthilkumar-7801ab324/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="https://leetcode.com/u/NthishwaranSenthilkumar/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-</a>
-
-<a href="https://github.com/NithishwaranSenthilkumar">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ Code. Learn. Build. Repeat.
 
 **"Turning ideas into code and challenges into opportunities."**
 
-⭐ Thanks for visiting my profile!
+⚡ *Code. Learn. Build. Repeat.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
 
 </div>
